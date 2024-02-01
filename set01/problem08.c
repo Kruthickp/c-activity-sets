@@ -41,10 +41,9 @@ int sum_n_array(int n, int a[n])
 void output(int n, int a[n], int sum) 
 {
     printf("The sum of %d different numbers is: %d\n", n, sum);
-    printf("The entered numbers are: ");
+    printf("The entered numbers are:\n");
     for (int i = 0; i < n; i++) 
     {
-        printf("%d ", a[i]);
+        printf("%d", a[i]);
     }
-    printf("\n");
 }

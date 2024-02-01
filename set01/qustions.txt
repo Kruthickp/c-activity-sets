@@ -1,0 +1,19 @@
+in call by reference formal parameter changes and actual parameter chances but C does not support call by reference call by reference is implemented by passing address.
+Call by reference is implemented by passing address.
+
+in call by value formal parameter changes actual parameter does not change.
+
+where is calling function and called function placed:
+in the c file
+
+what is a program:
+a set of functions which solves a problem user imput or performas a task
+there is a special function called main. it will call all the other functions in the program
+
+
+what will main do:
+it will call all the other functions in the program
+
+what is a calling function and a called function:
+calling function is a function that calls another function using its name
+called function is a function which is being called by another function
