@@ -2,6 +2,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("kruthick\n");
+    printf("kruthick p\n");
     return 0;
 }
