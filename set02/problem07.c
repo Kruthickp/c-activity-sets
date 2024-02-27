@@ -19,9 +19,9 @@ int main()
 Triangle input_triangle() 
 {
     Triangle t;
-    printf("Enter the base of the triangle: ");
+    printf("Enter the base of the triangle:\n");
     scanf("%f", &t.base);
-    printf("Enter the altitude of the triangle: ");
+    printf("Enter the altitude of the triangle:\n");
     scanf("%f", &t.altitude);
     return t;
 }
