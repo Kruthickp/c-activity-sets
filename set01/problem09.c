@@ -8,7 +8,7 @@ float input()
     printf("Enter a number a positive number\n");
     scanf("%f", &n);
     return n;
-}
+} 
 float square_root(float n)
 {
     float x= n/2;

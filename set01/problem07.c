@@ -11,10 +11,10 @@ int main()
 }
 int input_n() 
 {
-    int x;
+    int num;
     printf("Enter the n natural numbers to be added:\n");
-    scanf("%d", &x);
-    return x;
+    scanf("%d", &num);
+    return num;
 }
 int sum_n_nos(int n) 
 {
